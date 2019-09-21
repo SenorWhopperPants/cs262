@@ -1,0 +1,35 @@
+Josh Bussis
+09/06/2019
+
+1)
+	a) Junior
+	b) BCS
+	c) CS 112: A; CS 212: B+
+
+2)
+	a) I have worked with Java (highschool, CS 214, at my internship), and
+		Portable Device Applications (at my internship working on premade apps
+		and made my own simple one)
+
+	b) I have used Trello (I used it a little at my internship), and 
+		Git/Github (also at my internship; pushed updates and gotten code 
+		off of Git to use on my own computer).
+
+	c) I have a Google Pixel phone, running Android 9
+
+	d) I would like to work on the Calvin Dating App idea that I mentioned in 
+		my ideas.txt file (I have a group of people who want to work on this). 
+		If that is not plausable, then I would like to work on the Grade Calculator
+		idea that I have in the text file (same group of people would also work on 
+		this).
+
+3)
+	a)  	O = 77%
+		C = 73%
+		E = 52%
+		A = 69%
+		N = 35%
+
+	b) Bryce Allen, Bryan Fowler, Brian Goins, Caleb Schmurr
+
+4) N/A

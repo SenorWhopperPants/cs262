@@ -1,0 +1,17 @@
+Josh Bussis
+09/06/2019
+
+Exercise 1.1:
+Application ideas:
+	- Class Grade Calculator: this will let the user enter syllabus info for each of
+		their classes (it will save all of the classes) and will let them 
+		continually enter the grades they get in their classes and calculates 
+		their current grade. 
+
+	- Calvin Dating App: an app that allows users to find that special someone from 
+		Calvin, but with a twist: the user can only contact others with pre-set 
+		Bible verses.  Users will make their own profiles with info about themselves
+		and will be able to search for others and contact them via the above description.
+
+
+ 
