@@ -5,5 +5,5 @@ up coming lessons.  The code that is added is found in the src/app/ folder.  Eve
 the videos helped a lot with the understanding of the layout of the files and the meaning of the code that is 
 generated/needed.  This is a good starting point for developing in Ionic. 
 
-Attatched is the picture of the home page, the edit-todo page is empty at the moment, so it won't show anything, 
+Attatched is the picture of the home page, the edit-todo page is empty at the moment so it won't show anything, 
 but it's there in code.  
