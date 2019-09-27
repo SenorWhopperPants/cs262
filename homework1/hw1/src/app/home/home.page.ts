@@ -7,7 +7,7 @@ import { InputChangeEventDetail } from '@ionic/core';
   styleUrls: ['home.page.scss'],
 })
 export class HomePage {
-
+  // variables
   public inputVal1: string;
   public inputVal2: string;
   public result: number;
@@ -16,9 +16,6 @@ export class HomePage {
 
   enterBtnClick() {
     // the prefixed + turns the variable into a number
-    // const x = +this.inputVal1;
-    // const y = +this.inputVal2;
-    // this.result = x + y;
     const x = +this.inputVal1;
     const y = +this.inputVal2;
 

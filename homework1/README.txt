@@ -1,0 +1,1 @@
+The files where I added code are home.page.html and home.page.ts.
