@@ -1,5 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { Router } from '@angular/router';
+import { SettingsService } from '../services/settings.service';
+
 
 @Component({
   selector: 'app-home',
@@ -8,7 +10,11 @@ import { Router } from '@angular/router';
 })
 export class HomePage {
 
-  constructor(private router: Router) {}
+  constructor(private router: Router, private settings: SettingsService) {
+    this.settings.getUserName();
+    this.settings.getDarkMode();
+    this.settings.getFontSize();
+   }
 
   settingsClick() {
     // set navigation to settings page here
