@@ -17,8 +17,6 @@ export class SettingsService {
     if (name !== '') {
       this.userName = name;
       this.storage.set('userName', this.userName);
-      // immediately call the getUserName() fuction
-      //this.getUserName();
     }
   }
 
@@ -34,8 +32,6 @@ export class SettingsService {
   saveDarkMode(mode: boolean) {
     this.darkMode = mode;
     this.storage.set('darkMode', this.darkMode);
-    // immediately call the getDarkMode() function
-    //this.getDarkMode();
   }
 
   getDarkMode() {
@@ -55,8 +51,6 @@ export class SettingsService {
   saveFontSize(font: string) {
     this.fontSize = font;
     this.storage.set('fontSize', this.fontSize);
-    // immediately call the getFontSize()
-    //this.getFontSize();
   }
 
   getFontSize() {
