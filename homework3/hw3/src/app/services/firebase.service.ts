@@ -12,6 +12,7 @@ export class FirebaseService {
 
   constructor(public afs: AngularFirestore) { }
 
+  // create a new player in the database
   createPlayer(playerName: string, playerEmail: string) {
     return new Promise<any>((resolve, reject) => {
       this.afs.collection('players').add({
@@ -25,6 +26,7 @@ export class FirebaseService {
     });
   }
 
+  // get data from the database about the game
   getGame(): Observable<any> {
     // return new Promise<any>((resolve, reject) => {
       return this.afs.collection('playerGame').valueChanges();//.doc(this.game).collection('players').valueChanges();
