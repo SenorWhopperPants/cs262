@@ -26,7 +26,6 @@ export class CreatePlayerPage implements OnInit {
 
   }
 
-  // function to add to the database
   addPlayer() {
     if (this.name !== '' && this.email !== '') {
       this.firebase.createPlayer(this.name, this.email);

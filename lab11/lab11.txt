@@ -1,0 +1,2 @@
+We have been using tslint the whole time in VSCode, so Vander Linden okay-ed us for lab 11.  Also, Ionic automatically formats 
+pages when they are created, so there's nothing we really need to do.  
